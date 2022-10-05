@@ -6,6 +6,7 @@
     spaceBetween: 0,
     effect: "fade",
     preventClicks: false,
+    updateOnImagesReady: true,
     pagination: {
       el: ".swiper-pagination",
       clickable: true,
