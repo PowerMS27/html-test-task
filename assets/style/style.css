@@ -746,8 +746,8 @@
     transition: box-shadow 0.4s ease, -webkit-box-shadow 0.4s ease;
   }
   .product {
-    max-width: calc(32.1vw - 20px);
-    height: calc(32.1vw - 20px);
+    max-width: calc(32.2vw - 20px);
+    height: calc(32.2vw - 20px);
   }
   .products-grid {
     gap: 80px 20px;
@@ -794,8 +794,8 @@
     gap: 60px 18px;
   }
   .product {
-    max-width: calc(50.9vw - 45px);
-    height: calc(50.9vw - 45px);
+    max-width: calc(50vw - 35px);
+    height: calc(50vw - 35px);
   }
 }
 @media (max-width: 500px) {
@@ -810,8 +810,8 @@
     gap: 60px 0px;
   }
   .product {
-    max-width: calc(101vw - 60px);
-    height: calc(101vw - 60px);
+    max-width: calc(97vw - 35px);
+    height: calc(97vw - 35px);
   }
   .footer-bottom {
     -webkit-box-orient: vertical;
